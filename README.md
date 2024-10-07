@@ -16,8 +16,7 @@ public class Shrabani {
 ```
 <h2>About me</h2>
 
-Hi, I'm Shrabani, a passionate self-taught full-stack developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the architecture, and code quality and that allowing me to build complete and scalable applications.
-
+Hi, I'm Shrabani, a passionate self-taught full-stack developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. 
 Thanks and Regards 
        😊
 
